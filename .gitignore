@@ -1,0 +1,7 @@
+/vendor
+/node_modules
+composer.lock
+tests/_data/dump.sql
+tests/_output/*
+tests/_support/_generated/*
+tests/_log
